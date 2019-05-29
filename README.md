@@ -2,3 +2,5 @@
 
 
 Detecting Bone Abnormalities in MURA Dataset (https://stanfordmlgroup.github.io/competitions/mura/)
+
+Model used: Dense169
